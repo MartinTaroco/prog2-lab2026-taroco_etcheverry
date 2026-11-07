@@ -85,4 +85,4 @@ Ambos integrantes participamos activamente en el diseño de la solución, la dep
 ## 11. Video Explicativo
 En el siguiente enlace se encuentra la defensa oral del proyecto, donde demostramos el funcionamiento de la aplicación, identificamos los componentes y explicamos el recorrido arquitectónico:
 
-👉 **[Enlace al video en YouTube / Google Drive] (PEGAR AQUÍ EL LINK PÚBLICO DEL VIDEO ANTES DE ENTREGAR)**
+👉 **https://youtu.be/qXlKmFtcrUs**
